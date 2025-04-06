@@ -1,4 +1,11 @@
 <?php
+/**
+ * @Author: Engeryu
+ * @Date:   2018-09-13 09:04:21
+ * @Last Modified by:   Engeryu
+ * @Last Modified time: 2025-04-06 22:21:55
+ */
+
 
 require "src/encode_rle.php";
 require "src/decode_rle.php";

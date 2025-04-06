@@ -1,9 +1,9 @@
 <?php
 /**
  * @Author: Engeryu
- * @Date:   1970-01-01 01:00:00
+ * @Date:   2018-09-13 09:32:49
  * @Last Modified by:   Engeryu
- * @Last Modified time: 2025-04-06 21:52:58
+ * @Last Modified time: 2025-04-06 22:25:25
  */
 
 function decode_advanced_rle(string $path_to_encode, string $result_path) {

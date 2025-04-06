@@ -1,4 +1,11 @@
 <?php
+/**
+ * @Author: Engeryu
+ * @Date:   2018-09-13 08:01:17
+ * @Last Modified by:   Engeryu
+ * @Last Modified time: 2025-04-06 22:22:11
+ */
+
 function encode_rle(string $str)
 {
     if (!ctype_alpha($str)) {

@@ -1,4 +1,11 @@
 <?php
+/**
+ * @Author: Engeryu
+ * @Date:   2018-09-13 08:42:33
+ * @Last Modified by:   Engeryu
+ * @Last Modified time: 2025-04-06 22:22:29
+ */
+
 function decode_rle(string $str)
 {
     if (!preg_match('/^([0-9]*[a-zA-Z])*$/', $str)) {
